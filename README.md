@@ -41,6 +41,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hoanghuygia/Hoanghuygia/output/snake.svg" alt="Snake animation" />
+### 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hoanghuygia&bg_color=1a1b27&color=ffffff&line=38bdae&point=f5f5f5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 
 ###
